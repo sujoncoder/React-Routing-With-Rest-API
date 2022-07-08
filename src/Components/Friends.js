@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Home = () => {
+const Friends = () => {
   return (
     <section>
-       
+        hello my friends
     </section>
   )
 }
 
-export default Home
+export default Friends
